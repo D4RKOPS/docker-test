@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true 
-          tags: your-dockerhub-username/docker-test:latest
+          tags: d4rk0ps/docker-test:latest
